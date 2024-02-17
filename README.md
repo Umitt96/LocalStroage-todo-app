@@ -5,3 +5,5 @@
 
 
 ![image](https://github.com/Umitt96/LocalStroage-todo-app/assets/55894059/b2951423-ec2a-4154-8ae2-d72f25a5f0d2)
+
+![image](https://github.com/Umitt96/LocalStroage-todo-app/assets/55894059/0db48787-b2c7-4571-b4d8-693c54c99d05)
